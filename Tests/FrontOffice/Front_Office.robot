@@ -14,7 +14,7 @@ ${FRONT_OFFICE_URL} =  http://www.robotframeworktutorial.com/front-office
 
 *** Test Cases ***
 Should be able to access "Team" page
-    [Documentation]  This is test 1
+    [Documentation]  This is test 1 Documentation
     [Tags]  test1
     FrontOfficeApp.Go to Landing Page
     FrontOfficeApp.Go to "Team" Page
